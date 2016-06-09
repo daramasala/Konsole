@@ -1,6 +1,8 @@
 # Konsole
 A console UI library in C#.
 
+![Screenshot](Screenshot%202016-06-09%2009.04.49.png)
+
 Here is how you can create a console application that uses this library:
 
 1. Create a new Console Application solution
